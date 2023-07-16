@@ -1,14 +1,12 @@
-## 三目並べのチュートリアル
-TypeScript & Create React Appを使いたい。
-```zsh
-npx create-react-app react-tic-tac-toe --template typescript
-```
-
-## アプリの内容に関するメモ
+## 三目並べのチュートリアル（作業内容メモ）
 [React三目並べのチュートリアル](https://ja.react.dev/learn/tutorial-tic-tac-toe)。
 とりあえず、最後までやったので、最低限の三目並べはプレイできる。
 
 チュートリアルではJavaScriptだが併せて勉強したかったのでTypeScriptにした。
+初期構築にはCreate React Appを使った。
+```zsh
+npx create-react-app react-tic-tac-toe --template typescript
+```
 
 チュートリアル外の機能としては、引き分け判定の追加を行った。あとは昇順・降順ソートとかいまの番手を表示するとかは追加分。
 
