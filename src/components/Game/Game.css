@@ -1,0 +1,18 @@
+.Game {
+  display: flex;
+  flex-direction: row;
+}
+
+.game-info {
+  background: #fff;
+  margin-left: 20px;
+}
+
+.game-history {
+  margin-bottom: 5px;
+}
+
+.move {
+  margin-top: 5px;
+  margin-left: 60px;
+}
